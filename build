@@ -1,0 +1,2 @@
+rm build.zip
+zip build.zip jquery.js load.js manifest.json
